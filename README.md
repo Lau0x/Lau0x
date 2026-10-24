@@ -2,7 +2,7 @@
 
 做一些自己会用、也希望别人用得上的小工具。关注自托管、内容发布和 iOS 应用。
 
-**[技术博客 · 我不是咕咕鸽](http://blog.laoda.de/)** &nbsp; / &nbsp; [生活记录 · yirenliu.com](https://yirenliu.com) &nbsp; / &nbsp; [项目展示](https://yirenliu.com/projects/)
+**[技术博客 · 我不是咕咕鸽](http://blog.laoda.de/)** &nbsp; / &nbsp; [生活记录 · yirenliu.com](https://yirenliu.com) &nbsp; / &nbsp; [项目展示](https://yirenliu.com/projects/) &nbsp; / &nbsp; [X · @yirenethan](https://x.com/yirenethan)
 
 ## 做的小东西
 
