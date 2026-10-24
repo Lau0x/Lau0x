@@ -1,4 +1,4 @@
-<p><img src="assets/intro.svg" width="100%" alt="Roy Liu / Lau0x — Tools for everyday use"></p>
+# `Lau0x`
 
 做一些自己会用、也希望别人用得上的小工具。关注自托管、内容发布和 iOS 应用。
 
